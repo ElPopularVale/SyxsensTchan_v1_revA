@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name DX07S024XJ1R1100)(type Legacy)(uri "/Users/josegranados/Library/Mobile Documents/com~apple~CloudDocs/Grana2/SyxsensTChain/SyxsensTchan_v1_revA/libs/Footprints/DX07S024XJ1R1100.mod")(options "")(descr ""))
+  (lib (name ABS05-32.768KHZ-T)(type KiCad)(uri ${KIPRJMOD}/libs/Footprints/ABS05-32.768KHZ-T.pretty)(options "")(descr ""))
+  (lib (name 0475710001)(type Legacy)(uri "/Users/josegranados/Library/Mobile Documents/com~apple~CloudDocs/Grana2/SyxsensTChain/SyxsensTchan_v1_revA/libs/Footprints/0475710001.mod")(options "")(descr ""))
+  (lib (name PTS810_SJM_250_SMTR_LFS)(type Legacy)(uri "/Users/josegranados/Library/Mobile Documents/com~apple~CloudDocs/Grana2/SyxsensTChain/SyxsensTchan_v1_revA/libs/Footprints/PTS810_SJM_250_SMTR_LFS.mod")(options "")(descr ""))
+  (lib (name Pads_1.27mm)(type KiCad)(uri ${KIPRJMOD}/libs/Footprints/Pads_1.27mm.pretty)(options "")(descr ""))
+)
